@@ -1,4 +1,4 @@
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge&logo=plotly)
@@ -16,5 +16,12 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lalitendumahanta20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lalitendumahanta201&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitendumahanta20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lalitendumahanta20&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
